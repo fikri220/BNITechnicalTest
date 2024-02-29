@@ -1,0 +1,6 @@
+framework module Pods_BniTechnicalTest {
+  umbrella header "Pods-BniTechnicalTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
